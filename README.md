@@ -1,2 +1,2 @@
 # mi-primer-modelo
-challenge #2 (MIR) 
+challenge rails #2 (MIR) 
